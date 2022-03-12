@@ -10,7 +10,7 @@ Analista de Recursos Humanos
 
 <div id="webaddress">
 <a href="psicoyanemerik@gmail.com">psicoyanemerik@gmail.com</a>
-| LinkedIn @yanemerik | Telefone: (81) 99565-8203 | <a href="cv.pdf">Baixar CV [PDF]</a>
+| LinkedIn @yanemerik | Telefone: (81) 99565-8203 <br> Jaboatão dos Guararapes, PE | <a href="cv.pdf">Baixar CV [PDF]</a>
 </div>
 
 ## Sobre Mim
