@@ -43,11 +43,17 @@ Auxiliar Administrativo exercendo atividade inicialmente no setor de Logística,
 __Agente de Processos e Negócios, [TIVIT - atual NeoBPO](https://neobpo.com.br)__
 - De Fevereiro de 2017 até Outubro de 2018
 
+Atendimento ao cliente.
+
 <br><br>
 
 `2015 - 2016`
 __Aprendiz de Assistente Administrativo, [CADAN](https://www.cadandistribuicao.com.br)__
 - De Janeiro de 2015 até Janeiro de 2016
+
+Jovem aprendiz do setor de Recursos Humanos, auxiliando nos processos de recrutamento e seleção e controle de banco de talentos.
+
+<br><br>
 
 ## Educação
 
