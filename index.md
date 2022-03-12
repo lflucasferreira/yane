@@ -9,92 +9,56 @@ title: Yane Merik
 Analista de Recursos Humanos
 
 <div id="webaddress">
-<a href="lucasferreira@outlook.com.br">lucasferreira@outlook.com.br</a>
-| LinkedIn @yanemerik | <a href="cv-english.pdf">Baixar CV [PDF]</a>
+<a href="psicoyanemerik@gmail.com">psicoyanemerik@gmail.com</a>
+| LinkedIn @yanemerik | Telefone: (81) 99565-8203 | <a href="cv.pdf">Baixar CV [PDF]</a>
 </div>
 
-## Experienced in
-...
+## Sobre Mim
 
-## About me
+Com formação em <b>Psicologia</b>, no momento exerço as minhas habilidades profissionais no campo de <b>Recursos Humanos</b> e <b>Departamento Pessoal</b>, mas também tenho uma trajetória profissional na área <b>Administrativa</b>.
 
-...
+Realizo processos seletivos, treinamentos, extraio indicadores de desempenho inerentes ao setor, tais como:
+- Turnover
+- Absenteísmo
+- Horas/Treinamento
 
-## Professional Experience
+Além disso, sou responsável pelas comunicações internas, campanhas de psicoeducação, controle de ponto no DIMEP, controle de banco de horas, controle de ASOS, férias e horas extras.
 
-### Junior Level
+## Experiência Profissional
 
-`2019 - 2020`
-__Junior QA Engineer, [Stefanini](https://www.stefanini.com)__ [Brazil]
-- From May 2019 to September 2020.
+`2021 - Atual`
+__Assistente de Recursos Humanos, [CGM](https://www.grupocgm.com.br)__ [Brasil]
+- De Setembro de 2021 até o momento
 
-## Education
+`2018 - 2021`
+__Auxiliar Administrativo, [CGM](https://www.grupocgm.com.br)__ [Brasil]
+- De Novembro de 2018 até Agosto de 2021
 
-`2013 - 2014`
-__Dalhousie University, Canada.__
-- *Computer Science* [3 terms]
-- From September 2013 to December 2014.
-- [Science without Borders - Federal Brazilian Program]
+`2017 - 2018`
+__Agente de Processos e Negócios, [TIVIT - atual NeoBPO](https://neobpo.com.br)__ [Brasil]
+- De Fevereiro de 2017 até Outubro de 2018
 
-## Developed Skills
+`2015 - 2016`
+__Aprendiz de Assistente Administrativo, [CADAN](https://www.cadandistribuicao.com.br)__ [Brasil]
+- De Janeiro de 2015 até Janeiro de 2016
 
-### Soft Skills
+## Educação
 
-__Collaboration__: I am used to knowing how to work in a group.
+`2016 - 2020`
+__UNIFG (Centro Universitário dos Guararapes)__
+- *Graduação em Psicologia*
+- CRP-PE 02/24429 ativo
 
-__Flexibility__: I can adapt myself to the changes and be flexible when needed.
+## Habilidades
 
-__Good Communication__: I listen carefully to details and talk clearly is crucial nowadays.
+### Habilidades Interpessoais
 
-__Team Leadership__: I try to engage and inspire groups to develop himself.
+__Colaborativa__
 
-__Result Oriented__: My focus is on the final result in an efficient way.
+__Flexível__
 
-### Hard Skills
-
-__Programming Languages__
-- Ruby, JavaScript, Python.
-
-
-## Licenses & Certifications
-
-`Jul 2020`
-__DevOps Essentials Professional Certificate__ ([CerfiProf](https://certiprof.com))
-- Credential ID: 42649903 valid until July 2022.
-
-## Languages
-
-### Basic
-
-__English__
-
-`Mar 3, 2021`
-A1 Level {score: A+ 96%} [Issued by [McGraw Hill Education](https://www.mheducation.com) via [Busuu](https://www.busuu.com)]
-
-## Awards
-
-`2021`
-__CI&T - Team Highlight__
-- My Squad team received this award after satisfying our worldwide client expectation.
-
-<!-- ## Goals
-
-`Next 2 years`
-Become a Senior QA Engineer
-
-`Next 5 years`
-- Become a QA Manager. -->
-
-<!-- ## Salary Expectation
-Based on my current conditions, my desired monthly wage is something like:
-
-- __North America__
-	- Between US$ 4,000 and US$ 5,000.
-- __Europe__
-	- Between €$ 2,500 and €$ 3,500.
-- __South America__
-	- Between R$ 9,500 and R$ 12,000. -->
+__Comunicativa__
 
 <!-- ## CV updated on
 
-June 20, 2021. -->
+12 Março de 2022. -->
