@@ -27,9 +27,13 @@ Além disso, sou responsável pelas comunicações internas, campanhas de psicoe
 __Assistente de Recursos Humanos, [CGM](https://www.grupocgm.com.br)__
 - De Setembro de 2021 até o momento
 
+No setor de RH/DP, lido com processos de recrutamento e seleção, controle de ponto dos funcionários através do sistema DIMEP, controle de banco de horas, controle de ASOS, controle de férias através de cronograma anual de férias, controle de indicadores e promoção de campanhas de psicoeducação.
+
 `2018 - 2021`
 __Auxiliar Administrativo, [CGM](https://www.grupocgm.com.br)__
 - De Novembro de 2018 até Agosto de 2021
+
+Auxiliar Administrativo exercendo atividade inicialmente no setor de Logística, cuidando dos processos de entrada e saída de mercadorias. Atuação no setor de Qualidade com controle de pragas, controle de temperatura e controle de documentos de fornecedores.
 
 `2017 - 2018`
 __Agente de Processos e Negócios, [TIVIT - atual NeoBPO](https://neobpo.com.br)__
