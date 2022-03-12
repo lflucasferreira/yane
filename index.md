@@ -10,7 +10,7 @@ Analista de Recursos Humanos
 
 <div id="webaddress">
 <a href="mailto:psicoyanemerik@gmail.com">psicoyanemerik@gmail.com</a>
-| LinkedIn @yanemerik | Telefone: (81) 99565-8203 <br> Jaboatão dos Guararapes, PE | <a href="cv.pdf">Baixar CV [PDF]</a>
+| LinkedIn @yanemerik <br> Telefone: (81) 99565-8203 | Jaboatão dos Guararapes, PE
 </div>
 
 ## Sobre Mim
@@ -29,15 +29,21 @@ __Assistente de Recursos Humanos, [CGM](https://www.grupocgm.com.br)__
 
 No setor de RH/DP, lido com processos de recrutamento e seleção, controle de ponto dos funcionários através do sistema DIMEP, controle de banco de horas, controle de ASOS, controle de férias através de cronograma anual de férias, controle de indicadores e promoção de campanhas de psicoeducação.
 
+<br><br>
+
 `2018 - 2021`
 __Auxiliar Administrativo, [CGM](https://www.grupocgm.com.br)__
 - De Novembro de 2018 até Agosto de 2021
 
 Auxiliar Administrativo exercendo atividade inicialmente no setor de Logística, cuidando dos processos de entrada e saída de mercadorias. Atuação no setor de Qualidade com controle de pragas, controle de temperatura e controle de documentos de fornecedores.
 
+<br><br>
+
 `2017 - 2018`
 __Agente de Processos e Negócios, [TIVIT - atual NeoBPO](https://neobpo.com.br)__
 - De Fevereiro de 2017 até Outubro de 2018
+
+<br><br>
 
 `2015 - 2016`
 __Aprendiz de Assistente Administrativo, [CADAN](https://www.cadandistribuicao.com.br)__
