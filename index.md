@@ -9,7 +9,7 @@ title: Yane Merik
 Analista de Recursos Humanos
 
 <div id="webaddress">
-<a href="psicoyanemerik@gmail.com">psicoyanemerik@gmail.com</a>
+<a href="mailto:psicoyanemerik@gmail.com">psicoyanemerik@gmail.com</a>
 | LinkedIn @yanemerik | Telefone: (81) 99565-8203 <br> Jaboatão dos Guararapes, PE | <a href="cv.pdf">Baixar CV [PDF]</a>
 </div>
 
