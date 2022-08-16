@@ -23,9 +23,17 @@ Além disso, sou responsável pelas comunicações internas, campanhas de psicoe
 
 ## Experiência Profissional
 
-`2021 - Atual`
+`2022 - Atual`
+__Analista Administrativo Financeiro, [CGM](https://www.boapraca.com.br)__
+- De Maio de 2022 até o momento
+
+No setor Financeiro, realizando prestação de contas (cartão de crédito e caixinha), controle de notas fiscais e invoices. Além disso, atuo com recrutamento e seleção, controle de ponto e banco de horas pelo MGE Pessoal (Sankhya), gestão de benefícios e campanhas de psicoeducação.
+
+<br><br>
+
+`2021 - 2022`
 __Assistente de Recursos Humanos, [CGM](https://www.grupocgm.com.br)__
-- De Setembro de 2021 até o momento
+- De Setembro de 2021 até Maio de 2022
 
 No setor de RH/DP, lido com processos de recrutamento e seleção, controle de ponto dos funcionários através do sistema DIMEP, controle de banco de horas, controle de ASOS, controle de férias através de cronograma anual de férias, controle de indicadores e promoção de campanhas de psicoeducação.
 
