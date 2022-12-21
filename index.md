@@ -24,7 +24,7 @@ Além disso, sou responsável pelas comunicações internas, campanhas de psicoe
 ## Experiência Profissional
 
 `2022 - Atual`
-__Analista Administrativo Financeiro, [CGM](https://www.boapraca.com.br)__
+__Analista Administrativo Financeiro, [Grupo Boa Praça](https://www.boapraca.com.br)__
 - De Maio de 2022 até o momento
 
 No setor Financeiro, realizando prestação de contas (cartão de crédito e caixinha), controle de notas fiscais e invoices. Além disso, atuo com recrutamento e seleção, controle de ponto e banco de horas pelo MGE Pessoal (Sankhya), gestão de benefícios e campanhas de psicoeducação.
