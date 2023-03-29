@@ -15,19 +15,17 @@ Analista de Recursos Humanos
 
 ## Sobre Mim
 
-Com formação em *Psicologia*, no momento exerço as minhas habilidades profissionais no campo de *Recursos Humanos* e *Departamento Pessoal*, mas também tenho uma trajetória profissional na área *Administrativa*.
+Com formação em *Psicologia*, no momento exerço as minhas habilidades profissionais na área clínica. Além disso, tenho experiência no campo de *Recursos Humanos* com trajetória profissional na área *Administrativa*.
 
-Realizo processos seletivos, treinamentos, extraio indicadores de desempenho inerentes ao setor, tais como: Turnover, Absenteísmo, Horas/Treinamento, entre outros.
-
-Além disso, sou responsável pelas comunicações internas, campanhas de psicoeducação, controle de ponto no DIMEP, controle de banco de horas, controle de ASOS, férias e horas extras.
+Dentro de Recursos Humanos a minha principal atuação é com processos seletivos, treinamentos de integração, comunicações internas, campanhas de psicoeducação, controle de ASOS, férias, entre outros.
 
 ## Experiência Profissional
 
-`2022 - Atual`
+`2022 - 2023`
 __Analista Administrativo Financeiro, [Grupo Boa Praça](https://www.boapraca.com.br)__
-- De Maio de 2022 até o momento
+- De Maio de 2022 até Fevereiro de 2023
 
-No setor Financeiro, realizando prestação de contas (cartão de crédito e caixinha), controle de notas fiscais e invoices. Além disso, atuo com recrutamento e seleção, controle de ponto e banco de horas pelo MGE Pessoal (Sankhya), gestão de benefícios e campanhas de psicoeducação.
+No setor Financeiro, realizando prestação de contas (cartão de crédito e caixinha), controle de notas fiscais e invoices. Além disso, atuava com recrutamento e seleção, integração de novos colaboradores, gestão de benefícios e campanhas de psicoeducação.
 
 <br><br>
 
