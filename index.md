@@ -63,9 +63,10 @@ Jovem aprendiz do setor de Recursos Humanos, auxiliando nos processos de recruta
 
 ## Educação
 
-`2023 - Cursando`
+`2023 - 2023`
 __FACULDADE ESUDA__
 - *Pós-graduação (especialização) em Terapia Cognitivo-Comportamental*
+- Cursando até outubro de 2023
 
 `2016 - 2020`
 __UNIFG (Centro Universitário dos Guararapes)__
