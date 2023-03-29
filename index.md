@@ -15,7 +15,7 @@ Analista de Recursos Humanos
 
 ## Sobre Mim
 
-Com formação em *Psicologia*, no momento exerço as minhas habilidades profissionais na área clínica. Além disso, tenho experiência no campo de *Recursos Humanos* com trajetória profissional na área *Administrativa*.
+Com formação em *Psicologia*, cursando pós-graduação em Terapia Cognitivo-Comportamental, no momento exerço as minhas habilidades profissionais na área clínica. Além disso, tenho experiência no campo de *Recursos Humanos* com trajetória profissional na área *Administrativa*.
 
 Dentro de Recursos Humanos a minha principal atuação é com processos seletivos, treinamentos de integração, comunicações internas, campanhas de psicoeducação, controle de ASOS, férias, entre outros.
 
