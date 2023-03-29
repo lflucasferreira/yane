@@ -25,17 +25,17 @@ Dentro de Recursos Humanos a minha principal atuação é com processos seletivo
 __Analista Administrativo Financeiro, [Grupo Boa Praça](https://www.boapraca.com.br)__
 - De Maio de 2022 até Fevereiro de 2023
 
-No setor Financeiro, realizando prestação de contas (cartão de crédito e caixinha), controle de notas fiscais e invoices. Além disso, atuava com recrutamento e seleção, integração de novos colaboradores, gestão de benefícios e campanhas de psicoeducação.
+No setor Financeiro, realizava prestação de contas (cartão de crédito e caixinha), controle de notas fiscais e invoices. Além disso, atuava com recrutamento e seleção, integração de novos colaboradores, gestão de benefícios e campanhas de psicoeducação.
 
-<br><br>
+<br>
 
 `2021 - 2022`
 __Assistente de Recursos Humanos, [CGM](https://www.grupocgm.com.br)__
 - De Setembro de 2021 até Maio de 2022
 
-No setor de RH/DP, lido com processos de recrutamento e seleção, controle de ponto dos funcionários através do sistema DIMEP, controle de banco de horas, controle de ASOS, controle de férias através de cronograma anual de férias, controle de indicadores e promoção de campanhas de psicoeducação.
+No setor de RH/DP, lidava com processos de recrutamento e seleção, controle de ponto dos funcionários através do sistema DIMEP, controle de banco de horas, controle de ASOS, controle de férias através de cronograma anual de férias, controle de indicadores e promoção de campanhas de psicoeducação.
 
-<br><br>
+<br>
 
 `2018 - 2021`
 __Auxiliar Administrativo, [CGM](https://www.grupocgm.com.br)__
@@ -43,7 +43,7 @@ __Auxiliar Administrativo, [CGM](https://www.grupocgm.com.br)__
 
 Auxiliar Administrativo exercendo atividade inicialmente no setor de Logística, cuidando dos processos de entrada e saída de mercadorias. Atuação no setor de Qualidade com controle de pragas, controle de temperatura e controle de documentos de fornecedores.
 
-<br><br>
+<br>
 
 `2017 - 2018`
 __Agente de Processos e Negócios, [TIVIT - atual NeoBPO](https://neobpo.com.br)__
@@ -51,7 +51,7 @@ __Agente de Processos e Negócios, [TIVIT - atual NeoBPO](https://neobpo.com.br)
 
 Atendimento ao cliente.
 
-<br><br>
+<br>
 
 `2015 - 2016`
 __Aprendiz de Assistente Administrativo, [CADAN](https://www.cadandistribuicao.com.br)__
@@ -62,6 +62,10 @@ Jovem aprendiz do setor de Recursos Humanos, auxiliando nos processos de recruta
 <br><br>
 
 ## Educação
+
+`2023 - Cursando`
+__FACULDADE ESUDA__
+- *Pós-graduação (especialização) em Terapia Cognitivo-Comportamental*
 
 `2016 - 2020`
 __UNIFG (Centro Universitário dos Guararapes)__
