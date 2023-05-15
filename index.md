@@ -73,6 +73,14 @@ __UNIFG (Centro Universitário dos Guararapes)__
 - *Graduação em Psicologia*
 - CRP-PE 02/24429 ativo
 
+## Cursos de Formação
+
+`2023`
+__FEEL ACADEMY__
+- *Formação Tech Recruiter*
+- *Formação Agile HR*
+- *Analista Comportamental - Método DISC*
+
 ## Habilidades Interpessoais
 
 __Colaborativa__
