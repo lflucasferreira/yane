@@ -71,7 +71,6 @@ __FEEL ACADEMY__
 - Formação Agile HR
 - Analista Comportamental - Método DISC
 
-
 ## Habilidades Interpessoais
 __Colaborativa__
 
