@@ -51,7 +51,7 @@ __Aprendiz de Assistente Administrativo, [CADAN](https://www.cadandistribuicao.c
 
 Jovem aprendiz do setor de Recursos Humanos, auxiliando nos processos de recrutamento e seleção e controle de banco de talentos.
 
-<br><br>
+<br>
 
 ## Educação
 
@@ -65,7 +65,7 @@ __UNIFG (Centro Universitário dos Guararapes)__
 - *Graduação em Psicologia*
 - CRP-PE 02/24429 ativo
 
-<br><br>
+<br>
 
 ## Cursos de Formação
 
@@ -75,7 +75,7 @@ __FEEL ACADEMY__
 - Formação Agile HR
 - Analista Comportamental - Método DISC
 
-<br><br>
+<br>
 
 ## Habilidades Interpessoais
 
