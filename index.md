@@ -74,7 +74,9 @@ __FEEL ACADEMY__
 
 ## Habilidades Interpessoais
 __Colaborativa__
+
 __Flexível__
+
 __Comunicativa__
 
 <!-- ## CV updated on
