@@ -27,15 +27,11 @@ __Analista Administrativo Financeiro, [Grupo Boa Praça](https://www.boapraca.co
 
 No setor Financeiro, realizava prestação de contas (cartão de crédito e caixinha), controle de notas fiscais e invoices. Além disso, atuava com recrutamento e seleção, integração de novos colaboradores, gestão de benefícios e campanhas de psicoeducação.
 
-<br>
-
 `2021 - 2022`
 __Assistente de Recursos Humanos, [CGM](https://www.grupocgm.com.br)__
 - De Setembro de 2021 até Maio de 2022
 
 No setor de RH/DP, lidava com processos de recrutamento e seleção, controle de ponto dos funcionários através do sistema DIMEP, controle de banco de horas, controle de ASOS, controle de férias através de cronograma anual de férias, controle de indicadores e promoção de campanhas de psicoeducação.
-
-<br>
 
 `2018 - 2021`
 __Auxiliar Administrativo, [CGM](https://www.grupocgm.com.br)__
@@ -43,15 +39,11 @@ __Auxiliar Administrativo, [CGM](https://www.grupocgm.com.br)__
 
 Auxiliar Administrativo exercendo atividade inicialmente no setor de Logística, cuidando dos processos de entrada e saída de mercadorias. Atuação no setor de Qualidade com controle de pragas, controle de temperatura e controle de documentos de fornecedores.
 
-<br>
-
 `2017 - 2018`
 __Agente de Processos e Negócios, [TIVIT - atual NeoBPO](https://neobpo.com.br)__
 - De Fevereiro de 2017 até Outubro de 2018
 
 Atendimento ao cliente.
-
-<br>
 
 `2015 - 2016`
 __Aprendiz de Assistente Administrativo, [CADAN](https://www.cadandistribuicao.com.br)__
@@ -73,13 +65,17 @@ __UNIFG (Centro Universitário dos Guararapes)__
 - *Graduação em Psicologia*
 - CRP-PE 02/24429 ativo
 
+<br><br>
+
 ## Cursos de Formação
 
 `2023`
 __FEEL ACADEMY__
-- *Formação Tech Recruiter*
-- *Formação Agile HR*
-- *Analista Comportamental - Método DISC*
+- Formação Tech Recruiter
+- Formação Agile HR
+- Analista Comportamental - Método DISC
+
+<br><br>
 
 ## Habilidades Interpessoais
 
@@ -91,4 +87,4 @@ __Comunicativa__
 
 <!-- ## CV updated on
 
-12 Março de 2022. -->
+15 de Maio de 2023. -->
